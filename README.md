@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto consiste em uma API RESTful segura, desenvolvida como um estudo de caso prático para demonstrar competências em desenvolvimento de software back-endcd. A aplicação simula um sistema simplificado para gerenciamento de pacientes, com foco em boas práticas de arquitetura de software, segurança e documentação de APIs.
+Este projeto consiste em uma API RESTful segura, desenvolvida como um estudo de caso prático para demonstrar competências em desenvolvimento de software back-end. A aplicação simula um sistema simplificado para gerenciamento de pacientes, com foco em boas práticas de arquitetura de software, segurança e documentação de APIs.
 
 ## 🛠️ Tecnologias Utilizadas
 
